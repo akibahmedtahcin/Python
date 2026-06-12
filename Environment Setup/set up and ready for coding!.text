@@ -1,0 +1,24 @@
+## 🚀 Environment Setup
+
+To keep everything running smoothly, I have configured my development environment as follows:
+
+### 🛠 Tools & Technologies
+- **Language**: Python 3.14 (Latest stable version)
+- **Code Editor**: VS Code (Visual Studio Code)
+- **Extensions**: Python (Microsoft) for IntelliSense and debugging
+- **Version Control**: Git (for tracking changes and GitHub hosting)
+
+### 📂 Workspace Structure
+I am organizing my learning progress chapter-by-chapter to maintain clean code and easy navigation:
+- `/Chapter 01 - Basics` - Introduction, Variables, and Data Types
+- `/Chapter 02 - Strings & Type Conversion` - String manipulation and casting
+- `/Chapter 03 - Operators & Conditionals` - Logic and decision making
+- `/Chapter 04 - Loops` - Iteration and games
+- `/Chapter 05 - Functions` - Reusable code blocks
+- `/Chapter 06 - Data Structures` - Lists, Tuples, Sets, and Dictionaries
+- `/Chapter 07 - Exceptions & Files` - Error handling and File I/O
+- `/Chapter 08 - OOP` - Object-Oriented Programming concepts
+- `/Chapter 09 - Projects` - Real-world applications like Bank Management System
+
+---
+*Environment is successfully set up and ready for coding!*
